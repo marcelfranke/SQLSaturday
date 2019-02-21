@@ -10,4 +10,6 @@ In this repository I share my talks and code from my sessions at the SQLSaturday
 
 [2015](/2015): [SQLSaturday #409 - Rheinland](https://www.sqlsaturday.com/409/eventhome.aspx): SSIS Performance Tuning Deep Dive
 
+[2014](/2014): [SQLSaturday #313 - Rheinland](https://www.sqlsaturday.com/313/eventhome.aspx): SAP HANA, Power Pivot, SQL Server – In-Memory-Technologien im Vergleich
+
 [2013](/2013): [SQL Saturday #230 - Rheinland](https://www.sqlsaturday.com/230/default.aspx): Big Data Hype or Reality
