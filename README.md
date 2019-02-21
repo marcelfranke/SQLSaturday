@@ -1,3 +1,3 @@
-![alt text](https://www.pass.org/Portals/0/EasyDNNnews/637/PASS_SQLSaturday_Logos_Stacked_Color.jpg)
+![alt text](https://dataonwheels.files.wordpress.com/2018/05/sqlsaturday-logo.png)
 
 # SQLSaturday
